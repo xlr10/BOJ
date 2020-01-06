@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/step04_while/step04_while.iml" filepath="$PROJECT_DIR$/step04_while/step04_while.iml" />
       <module fileurl="file://$PROJECT_DIR$/step05_array/step05_array.iml" filepath="$PROJECT_DIR$/step05_array/step05_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/step06_function/step06_function.iml" filepath="$PROJECT_DIR$/step06_function/step06_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step07_string/step07_string.iml" filepath="$PROJECT_DIR$/step07_string/step07_string.iml" />
     </modules>
   </component>
 </project>
